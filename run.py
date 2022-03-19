@@ -119,6 +119,9 @@ while True:
     if player_choice in ["YES", "Yes", "yes", "y", "Y"]:
         pass
     elif player_choice in ["NO", "No", "no", "n", "N"]:
+        print()
+        print("Thanks for playing!!!!!")
+        print()
         break
     else:
         break
